@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/295.0.0.34.119;FBBV/254426061;FBDM/{density=2.0,width=1080,height=1920};FBLC/en_US;FBRV/235412020;FBCR/airtel;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH1715;FBSV/7.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
