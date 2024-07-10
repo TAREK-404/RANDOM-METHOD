@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/295.0.0.34.119;FBBV/254426061;FBDM/{density=1.8,width=1080,height=2280};FBLC/en_US;FBRV/0;FBCR/Airtel;FBMF/HMD Global;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/TA-1200;FBSV/9.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320H Build/LMY47V) [FBAN/Orca-Android;FBAV/266.0.0.56.124;FBPN/com.facebook.orca;FBLC/en_US;FBBV/209027740;FBCR/airtel;FBMF/samsung;FBBD/samsung;FBDV/SM-J320H;FBSV/5.1.1;FBCA/arm64-v8a:null;FBDM/{density=1.5,width=720,height=1280};FB_FW/1;]
