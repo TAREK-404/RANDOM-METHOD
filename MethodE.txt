@@ -1,4 +1,3 @@
-10|moto g(8) power lite
 6.0.1|Nexus 5X
 13|moto g power 5G - 2023
 14|SM-A145R
