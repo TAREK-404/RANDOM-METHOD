@@ -1,1 +1,1 @@
-Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320H Build/LMY47V) [FBAN/Orca-Android;FBAV/266.0.0.56.124;FBPN/com.facebook.orca;FBLC/en_US;FBBV/209027740;FBCR/airtel;FBMF/samsung;FBBD/samsung;FBDV/SM-J320H;FBSV/5.1.1;FBCA/arm64-v8a:null;FBDM/{density=1.5,width=720,height=1280};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 8.1.0;CPH1803 Build/OPM1.171019.026)[FBAN/Orca- Android;FBAV/298.0.0.46.116;FBPN/com.facebook.orca;FBLC/en_US;FBBV/259886945;FBCR/airtel;FBMF/OPPO;FBDV/PCHM10;FBSV/9.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1600};FB_FW/1;]
