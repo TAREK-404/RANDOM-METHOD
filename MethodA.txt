@@ -1,1 +1,1 @@
-Dalvik/2.1.0 (Linux; U; Android 8.1.0;CPH1803 Build/OPM1.171019.026)[FBAN/Orca- Android;FBAV/298.0.0.46.116;FBPN/com.facebook.orca;FBLC/en_US;FBBV/259886945;FBCR/airtel;FBMF/OPPO;FBDV/PCHM10;FBSV/9.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1600};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 11; RMX3366 Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/351.0.0.38.117;FBPN/com.facebook.orca;FBLC/en_US;FBBV/310218293;FBCR/SAZKAmobilCZ;FBMF/realme;FBBD/realme;FBDV/RMX3366;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=3.2,width=1080,height=2400};]
